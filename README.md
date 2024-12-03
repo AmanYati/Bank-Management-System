@@ -1,4 +1,12 @@
 Bank Management System (BMS)
+
+This software was made by Team Code Crusaders
+Members:
+AMAN YATI
+ANSH SABHNANI
+DHRUV GAGNANI
+ANKIT KUMAR
+
 Overview
 
 The Bank Management System (BMS) is a software solution designed to streamline and automate banking processes, allowing banks to manage customer accounts, transactions, and related services efficiently. This system provides users with features such as account creation, deposits, withdrawals, account updates, and more, all while ensuring secure data handling and user-friendly interfaces.
