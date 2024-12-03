@@ -2,10 +2,10 @@ Bank Management System (BMS)
 
 This software was made by Team Code Crusaders
 Members:
-AMAN YATI
-ANSH SABHNANI
-DHRUV GAGNANI
-ANKIT KUMAR
+1.AMAN YATI
+2.ANSH SABHNANI
+3.DHRUV GAGNANI
+4.ANKIT KUMAR
 
 Overview
 
